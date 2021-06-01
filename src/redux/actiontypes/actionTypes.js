@@ -1,0 +1,8 @@
+const actionTypes = {
+  FETCH_STATIC_DATA: "FETCH_STATIC_DATA",
+  ADD_ITEM_TO_CART: "ADD_ITEM_TO_CART",
+  REMOVE_ITEM_FROM_CART: "REMOVE_ITEM_FROM_CART",
+  SHOW_ALERT: "SHOW_ALERT",
+};
+
+export default actionTypes;

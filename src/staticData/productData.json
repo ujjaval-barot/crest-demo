@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "type": "car",
+    "company": "Mahindra",
+    "modalName": "Thar",
+    "engine": "2000 CC",
+    "varients": [
+      {
+        "id": 351,
+        "name": "Petrol",
+        "price": 400,
+        "purchaseLimit": 1
+      },
+      {
+        "id": 352,
+        "name": "Diesel",
+        "price": 500,
+        "purchaseLimit": 3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "car",
+    "company": "TATA",
+    "modalName": "Altroz",
+    "engine": "1300 CC",
+    "varients": [
+      {
+        "id": 353,
+        "name": "Petrol",
+        "price": 300,
+        "purchaseLimit": 2
+      },
+      {
+        "id": 354,
+        "name": "Diesel",
+        "price": 380,
+        "purchaseLimit": 7
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "car",
+    "company": "Suzuki",
+    "modalName": "Swift",
+    "engine": "1300 CC",
+    "varients": [
+      {
+        "id": 355,
+        "name": "Petrol",
+        "price": 320,
+        "purchaseLimit": 5
+      },
+      {
+        "id": 356,
+        "name": "Diesel",
+        "price": 380,
+        "purchaseLimit": 4
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "car",
+    "company": "Hyundai",
+    "modalName": "I20",
+    "engine": "1500 CC",
+    "varients": [
+      {
+        "id": 357,
+        "name": "Petrol",
+        "price": 450,
+        "purchaseLimit": 3
+      },
+      {
+        "id": 358,
+        "name": "Diesel",
+        "price": 520,
+        "purchaseLimit": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "type": "car",
+    "company": "Nissan",
+    "modalName": "Sunny",
+    "engine": "2000 CC",
+    "varients": [
+      {
+        "id": 359,
+        "name": "Petrol",
+        "price": 500,
+        "purchaseLimit": 1
+      },
+      {
+        "id": 360,
+        "name": "Diesel",
+        "price": 590,
+        "purchaseLimit": 3
+      }
+    ]
+  }
+]
